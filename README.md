@@ -34,9 +34,9 @@ This repository showcases my expertise in Power BI, data visualization, and dash
 
 2. **Alternative Options:**
 
-    a. **PDF Version:** If you prefer not to download Power BI, you can view a static version of the dashboard by opening the [PDF file] provided in this repository.
+    a. **PDF Version:** If you prefer not to download Power BI, you can view a static version of the dashboard by opening the PDF File provided in this repository.
 
-    b. **Video Demo:** For a more interactive experience, check out the [video demo] showcasing the dashboard's interactivity. This is especially useful if you want a quick overview without installing any software.
+    b. **Video Demo:** For a more interactive experience, check out the video demo showcasing the dashboard's interactivity. This is especially useful if you want a quick overview without installing any software.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 # Power BI Professional Survey Dashboard
 
-Welcome to the Power BI Professional Survey Dashboard repository! This project focuses on utilizing Power BI for data analysis, visualization, and dashboard creation based on real-world survey data.
+Welcome to the Power BI Professional Survey Dashboard repository! This project focuses on utilizing Power BI for data analysis, visualization, and dashboard development based on real-world survey data.
 
 ## Overview
 
@@ -30,13 +30,17 @@ This repository showcases my expertise in Power BI, data visualization, and dash
 
 ## How to Use
 
-1. **Download Power BI Desktop:** If you don't have Power BI Desktop installed, you can download it [here](https://powerbi.microsoft.com/desktop/).
-2. **Open Power BI file:** Open the Power BI file included in this repository using Power BI Desktop.
-3. **Explore the Dashboard:** Interact with the dashboard to explore survey insights and visualize the data.
+1. **Download Power BI Desktop:** If you have Power BI Desktop, download the Power BI file included in this repository and open it using Power BI Desktop.
+
+2. **Alternative Options:**
+
+    a. **PDF Version:** If you prefer not to download Power BI, you can view a static version of the dashboard by opening the [PDF file](link-to-your-pdf-file.pdf) provided in this repository.
+
+    b. **Video Demo:** For a more interactive experience, check out the [video demo](link-to-your-video-demo.mp4) showcasing the dashboard's interactivity. This is especially useful if you want a quick overview without installing any software.
 
 ## Notes
 
 - This project provides a hands-on demonstration of Power BI skills in a real-world context.
 - Feel free to reach out for any questions or collaboration opportunities.
 
-Thank you for visiting! I hope you find the insights generated from this Power BI dashboard informative and visually compelling.
+Thank you for visiting! 
